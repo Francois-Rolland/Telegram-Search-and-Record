@@ -13,7 +13,7 @@ import asyncio
 
 # Use your own api_id and api_hash
 api_id = "ICCHelperBot"
-api_hash = '6049845722:AAF3Lqf_kBqNJll_7PK_sVGBTwr5Gpa2Kfs'
+api_hash = ''
 
 
 async def run():
